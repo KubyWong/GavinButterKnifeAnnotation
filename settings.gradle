@@ -1,2 +1,3 @@
 rootProject.name='GavinButterKnifeAnnotation'
 include ':app'
+include ':gavin-butterknife-annotation'
